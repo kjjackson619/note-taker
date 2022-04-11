@@ -8,9 +8,6 @@ so that I can organize my thoughts and keep track of tasks I need to complete.
 
 <img width="1440" alt="Screen Shot 2022-04-10 at 11 16 15 PM" src="https://user-images.githubusercontent.com/92461865/162659408-cb12d369-5005-45a0-9e90-722b2b148e60.png">
 
-## Website
-
-
 ## Built With
 * JavaScript
 * Express JS
